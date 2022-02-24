@@ -49,3 +49,4 @@ Oversample the data using the RandomOverSampler and SMOTE algorithms, and unders
 ![Screen Shot 2022-02-24 at 1 46 17 PM](https://user-images.githubusercontent.com/38327290/155587701-b880e0fc-fe75-4275-91dd-acfd706701af.png)
 
 ## Summary
+The random forest and ensemble classifier had the highest precision scores, but the combination had the highest recall score, so I recommend one of those
